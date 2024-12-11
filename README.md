@@ -1,16 +1,12 @@
-## Hi there 👋
+# Amirali's Biography
 
-<!--
-**Amiralitorani/Amiralitorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+function showBiography(Amirali) {
+  const name = "Amirali";
+  const age = 18;
+  const interests = ["Gaming", "Coding"];
+  const education = "Student in Mathematics and Physics major";
+  const programmingLanguages = ["HTML", "CSS", "SCSS", "JavaScript"];
+  const goal = "Continuous effort to be the best in my field";
+}
+```
